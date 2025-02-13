@@ -1,0 +1,7 @@
+# Rust Target folder
+*/target
+
+# .pkg stuff
+*/.pkg
+
+
